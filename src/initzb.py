@@ -1,3 +1,5 @@
+# 这个Python脚本给出的只是最简单的没有加密的版本，有加密的版本请自行学习后自行编写 碰壁后可咨询熊之大
+
 import json
 import requests
 import datetime
